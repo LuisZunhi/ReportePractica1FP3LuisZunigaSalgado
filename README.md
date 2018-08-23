@@ -1,2 +1,2 @@
 # ReportePractica1FP3LuisZunigaSalgado
-Repositorio de oracticas de F programacion
+Repositorio de practicas de F programacion
